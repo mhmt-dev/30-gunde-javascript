@@ -1,0 +1,165 @@
+=================================
+AI PROMPT LIBRARY - SAMPLE PROMPTS
+=================================
+
+This is a sample file showing the structure of the prompt library.
+In production, you would create a comprehensive PDF with all prompts.
+
+=================================
+BUSINESS & MARKETING PROMPTS
+=================================
+
+1. VIRAL SOCIAL MEDIA POST CREATOR
+-----------------------------------
+You are a viral content specialist. Create 5 engaging social media posts about [TOPIC].
+For each post:
+- Hook readers in the first line
+- Use storytelling
+- Include a call-to-action
+- Add 5 relevant hashtags
+- Optimize for [PLATFORM]
+
+Make it shareable and emotionally compelling.
+
+2. EMAIL MARKETING SEQUENCE
+----------------------------
+Create a 5-email welcome sequence for [BUSINESS TYPE].
+
+Email 1: Welcome & Set Expectations
+Email 2: Deliver Main Value/Resource
+Email 3: Social Proof & Testimonials
+Email 4: Address Common Objections
+Email 5: Strong CTA & Limited Offer
+
+Each email should be 150-200 words, conversational, and drive engagement.
+
+3. BUSINESS NAME GENERATOR
+---------------------------
+I need a business name for [DESCRIBE YOUR BUSINESS].
+
+Generate 20 creative names that are:
+- Memorable and catchy
+- Easy to spell and pronounce
+- Available as .com domain (check availability)
+- Not trademarked
+- Include brief explanation for each name
+
+=================================
+CONTENT WRITING PROMPTS
+=================================
+
+4. BLOG POST OUTLINE GENERATOR
+-------------------------------
+Create a comprehensive outline for a blog post about [TOPIC].
+
+Include:
+- Attention-grabbing headline (provide 5 options)
+- Meta description (under 160 chars)
+- Introduction hook
+- 7-10 main section headings
+- 3-4 subheadings under each section
+- Conclusion with call-to-action
+- Internal linking opportunities
+- SEO keywords to target
+
+5. YOUTUBE VIDEO SCRIPT
+------------------------
+Write a 10-minute YouTube video script about [TOPIC].
+
+Structure:
+- Hook (first 15 seconds)
+- Introduction (30 seconds)
+- Main content (8 minutes)
+- Call-to-action (1 minute)
+- Outro (30 seconds)
+
+Include timestamps, visual cues, and engagement prompts (like, subscribe, comment).
+
+=================================
+CODING & TECHNICAL PROMPTS
+=================================
+
+6. CODE DEBUGGER
+-----------------
+I have this code that's not working:
+[PASTE YOUR CODE]
+
+The error message is:
+[PASTE ERROR]
+
+Please:
+1. Identify the bug
+2. Explain why it's happening
+3. Provide the fixed code
+4. Suggest how to prevent similar issues
+5. Add helpful comments
+
+7. DOCUMENTATION WRITER
+------------------------
+Write comprehensive documentation for this code:
+[PASTE YOUR CODE]
+
+Include:
+- Overview and purpose
+- Installation instructions
+- Usage examples
+- Parameter descriptions
+- Return values
+- Error handling
+- Best practices
+- Common use cases
+
+=================================
+PRODUCTIVITY & LEARNING
+=================================
+
+8. LEARNING PATH CREATOR
+-------------------------
+I want to learn [SKILL/TOPIC] and have [TIME AVAILABLE].
+
+Create a structured learning path with:
+- Prerequisites
+- Week-by-week breakdown
+- Resources (free and paid)
+- Practice projects
+- Milestone checkpoints
+- Final project idea
+
+Adapt the pace to [BEGINNER/INTERMEDIATE/ADVANCED] level.
+
+9. MEETING AGENDA GENERATOR
+----------------------------
+Create a meeting agenda for [MEETING PURPOSE] with [NUMBER] attendees, [DURATION] minutes.
+
+Include:
+- Objectives
+- Time allocations
+- Discussion points
+- Decision items
+- Action items template
+- Follow-up plan
+
+10. TASK PRIORITIZATION MATRIX
+-------------------------------
+I have these tasks: [LIST YOUR TASKS]
+
+Analyze and organize them using:
+- Eisenhower Matrix (Urgent/Important)
+- Estimated time for each
+- Dependencies
+- Recommended order
+- Tasks to delegate/eliminate
+- Daily schedule suggestion
+
+=================================
+
+🎉 This is just a SAMPLE!
+
+The full library contains:
+✅ 1000+ Premium Prompts
+✅ 15+ Categories
+✅ Real-world tested
+✅ Ready to copy & paste
+✅ Lifetime updates
+
+=================================
