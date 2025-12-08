@@ -25,19 +25,27 @@ export const articles: Article[] = [
     content: `
 # The Ultimate Guide to Sustainable Living in 2025
 
+![Sustainable Living](https://images.unsplash.com/photo-1542601906990-b4d3fb778b09?w=1200&h=600&fit=crop)
+
 Living sustainably has become more than just a trend—it's a necessity for our planet's future. As we navigate through 2025, the importance of adopting eco-friendly practices has never been more critical. This comprehensive guide will walk you through everything you need to know about sustainable living, from simple daily habits to major lifestyle changes that can make a significant impact.
 
 ## Understanding Sustainable Living
 
+![Eco-Friendly Lifestyle](https://images.unsplash.com/photo-1532996122724-e3c354a0b15b?w=800&h=400&fit=crop)
+
 Sustainable living means making conscious choices that reduce your environmental impact and preserve natural resources for future generations. It's about finding a balance between meeting our current needs without compromising the ability of future generations to meet theirs. This philosophy extends to every aspect of our lives, from the food we eat to the energy we consume.
 
 ## Energy Efficiency at Home
+
+![Energy Efficient Home](https://images.unsplash.com/photo-1558618666-fcd25c85cd64?w=800&h=400&fit=crop)
 
 One of the most impactful changes you can make is improving your home's energy efficiency. Start by conducting an energy audit to identify areas where you're wasting energy. Simple changes like switching to LED bulbs can reduce your lighting energy consumption by up to 75%. Consider installing smart thermostats that learn your schedule and adjust temperatures automatically, potentially saving you hundreds of dollars annually while reducing your carbon footprint.
 
 Solar panels have become increasingly affordable and efficient in 2025. Many homeowners are now generating their own clean energy, with some even selling excess power back to the grid. If solar panels aren't feasible, consider switching to a renewable energy provider that sources electricity from wind, solar, or hydroelectric power.
 
 ## Sustainable Food Choices
+
+![Organic Food](https://images.unsplash.com/photo-1488459716781-31db52582fe9?w=800&h=400&fit=crop)
 
 The food industry is one of the largest contributors to greenhouse gas emissions. Making sustainable food choices can significantly reduce your environmental impact. Start by incorporating more plant-based meals into your diet. You don't have to become completely vegetarian, but reducing meat consumption, especially beef, can make a substantial difference.
 
@@ -89,9 +97,13 @@ The future of our planet depends on the choices we make today. By embracing sust
     content: `
 # Mastering Remote Work: Productivity Tips for Digital Nomads
 
+![Remote Work](https://images.unsplash.com/photo-1522202176988-66273c2fd55f?w=1200&h=600&fit=crop)
+
 The remote work revolution has fundamentally transformed how we approach our careers. As we progress through 2025, more professionals than ever are embracing the digital nomad lifestyle, working from coffee shops in Bali, co-working spaces in Lisbon, or their home offices. However, with this freedom comes unique challenges that require intentional strategies to maintain productivity and work-life balance.
 
 ## Creating Your Ideal Workspace
+
+![Home Office Setup](https://images.unsplash.com/photo-1484480974693-6ca0a78fb36b?w=800&h=400&fit=crop)
 
 Your environment significantly impacts your productivity. Whether you're working from home or traveling the world, establishing a dedicated workspace is crucial. This doesn't necessarily mean having a separate room—it could be a specific corner of your living space that you associate with work mode.
 
@@ -165,6 +177,8 @@ The freedom and flexibility of remote work are incredible privileges, but they c
     content: `
 # Understanding Cryptocurrency: A Beginner's Guide to Digital Assets
 
+![Cryptocurrency](https://images.unsplash.com/photo-1518546305927-5a555bb7020d?w=1200&h=600&fit=crop)
+
 Cryptocurrency has evolved from a niche technology experiment to a mainstream financial instrument that's reshaping how we think about money, investments, and financial systems. As we navigate through 2025, understanding cryptocurrency is no longer optional for anyone interested in finance, technology, or investment. This comprehensive guide will help you understand the fundamentals of digital assets and how to navigate this exciting but complex landscape.
 
 ## What is Cryptocurrency?
@@ -174,6 +188,8 @@ At its core, cryptocurrency is digital or virtual currency that uses cryptograph
 Bitcoin, created in 2009, was the first cryptocurrency and remains the most well-known. However, thousands of alternative cryptocurrencies (altcoins) now exist, each with unique features and purposes. Ethereum, for example, introduced smart contracts—self-executing contracts with terms directly written into code—opening up possibilities beyond simple currency transactions.
 
 ## Blockchain Technology Explained
+
+![Blockchain Technology](https://images.unsplash.com/photo-1639762681485-074b7f938ba0?w=800&h=400&fit=crop)
 
 Understanding blockchain is essential to understanding cryptocurrency. A blockchain is a distributed ledger that records all transactions across a network of computers. Each "block" contains a number of transactions, and every time a new transaction occurs, a record of that transaction is added to every participant's ledger.
 
@@ -259,6 +275,8 @@ The cryptocurrency landscape will continue evolving, bringing new opportunities 
     content: `
 # The Art of Mindfulness: Techniques for Reducing Stress and Anxiety
 
+![Mindfulness Meditation](https://images.unsplash.com/photo-1506126613408-eca07ce68773?w=1200&h=600&fit=crop)
+
 In our fast-paced, constantly connected world, stress and anxiety have become unwelcome companions for millions of people. The demands of work, relationships, and daily life can feel overwhelming, leaving us feeling disconnected from ourselves and the present moment. Mindfulness offers a powerful antidote to this modern malaise, providing practical techniques for cultivating peace, clarity, and resilience in the face of life's challenges.
 
 ## Understanding Mindfulness
@@ -274,6 +292,8 @@ When we're stressed or anxious, our sympathetic nervous system activates the "fi
 Mindfulness activates the parasympathetic nervous system—the "rest and digest" response—counteracting stress's physiological effects. Regular practice reduces cortisol levels, lowers blood pressure, and improves heart rate variability, a marker of cardiovascular health and stress resilience.
 
 ## Basic Mindfulness Meditation
+
+![Meditation Practice](https://images.unsplash.com/photo-1545389336-cf090694435e?w=800&h=400&fit=crop)
 
 The foundation of mindfulness practice is meditation. Don't let the word intimidate you—meditation doesn't require special equipment, clothing, or beliefs. It simply means setting aside time to train your attention and awareness.
 
@@ -357,6 +377,8 @@ Start today. Take three mindful breaths right now. Notice how you feel. That's m
     content: `
 # Building Your Personal Brand: A Complete Guide for Professionals
 
+![Personal Branding](https://images.unsplash.com/photo-1557804506-669a67965ba0?w=1200&h=600&fit=crop)
+
 In today's competitive professional landscape, having technical skills and experience isn't enough. Your personal brand—how you present yourself and what you're known for—can be the differentiator that opens doors to opportunities, attracts clients, or lands your dream job. Whether you're an entrepreneur, freelancer, or climbing the corporate ladder, intentionally building your personal brand is one of the most valuable investments you can make in your career.
 
 ## Understanding Personal Branding
@@ -384,6 +406,8 @@ Create a longer professional bio that expands on your elevator pitch, including 
 Consistency is key across all platforms and communications. While you might adjust tone slightly for different audiences or platforms, your core message and values should remain constant. This consistency builds recognition and trust.
 
 ## Building Your Online Presence
+
+![Online Presence](https://images.unsplash.com/photo-1460925895917-afdab827c52f?w=800&h=400&fit=crop)
 
 In 2025, your online presence is often the first impression people have of you. Start with LinkedIn, the primary professional networking platform. Optimize your profile with a professional photo, compelling headline, detailed experience section, and rich media showcasing your work. Regularly share valuable content, engage with others' posts, and build your network strategically.
 
@@ -465,15 +489,21 @@ const additionalArticles: Article[] = [
     content: `
 # The Future of Artificial Intelligence: Trends Shaping 2025 and Beyond
 
+![AI Technology](https://images.unsplash.com/photo-1677442136019-21780ecad995?w=1200&h=600&fit=crop)
+
 Artificial Intelligence has transitioned from science fiction to an integral part of our daily lives. As we progress through 2025, AI continues evolving at an unprecedented pace, transforming industries, reshaping job markets, and raising important ethical questions. Understanding these developments isn't just for technologists—AI's impact touches everyone, making it essential knowledge for navigating our increasingly automated world.
 
 ## The Current State of AI
+
+![AI Systems](https://images.unsplash.com/photo-1620712943543-bcc4688e7485?w=800&h=400&fit=crop)
 
 Today's AI systems have achieved remarkable capabilities that seemed impossible just years ago. Large language models can engage in nuanced conversations, generate creative content, and assist with complex problem-solving. Computer vision systems recognize objects and faces with superhuman accuracy. AI-powered recommendation systems shape what we watch, read, and buy.
 
 However, we're still in the era of "narrow AI"—systems designed for specific tasks. Despite impressive capabilities in their domains, these systems lack general intelligence, common sense reasoning, and true understanding. The quest for Artificial General Intelligence (AGI)—AI with human-level intelligence across all domains—remains ongoing, with experts debating whether it's decades away or may never be achieved.
 
 ## Generative AI Revolution
+
+![Generative AI](https://images.unsplash.com/photo-1655720828018-edd2daec9349?w=800&h=400&fit=crop)
 
 Generative AI has captured public imagination and transformed creative industries. These systems can generate text, images, music, video, and code from simple prompts. Tools like GPT-4, DALL-E, and Midjourney have democratized content creation, enabling anyone to produce professional-quality outputs without specialized skills.
 
@@ -482,6 +512,8 @@ The implications are profound. Writers use AI assistants to overcome writer's bl
 Businesses are integrating generative AI into workflows, dramatically increasing productivity. Customer service chatbots handle routine inquiries, freeing human agents for complex issues. Content teams use AI to generate first drafts, which humans then refine. Developers use AI coding assistants to accelerate software development.
 
 ## AI in Healthcare
+
+![AI Healthcare](https://images.unsplash.com/photo-1576091160399-112ba8d25d1d?w=800&h=400&fit=crop)
 
 Healthcare is experiencing an AI-driven transformation with life-saving implications. AI systems now detect diseases from medical images with accuracy matching or exceeding human radiologists. Machine learning algorithms analyze genetic data to predict disease risk and personalize treatment plans. AI-powered drug discovery accelerates the development of new medications, potentially reducing the decade-long timeline and billion-dollar costs of traditional approaches.
 
@@ -562,6 +594,8 @@ The AI revolution is just beginning. Understanding these trends and their implic
 for (let i = 7; i <= 30; i++) {
   const categories = ["Technology", "Lifestyle", "Health", "Finance", "Career", "Travel", "Food", "Science"];
   const category = categories[i % categories.length];
+  const month = Math.min(Math.floor(i / 10) + 1, 2);
+  const day = Math.min((i % 30) + 1, 28);
   
   additionalArticles.push({
     id: i.toString(),
@@ -570,7 +604,7 @@ for (let i = 7; i <= 30; i++) {
     excerpt: `Comprehensive analysis and practical strategies for mastering ${category.toLowerCase()} in today's dynamic environment.`,
     category: category,
     image: `https://images.unsplash.com/photo-${1500000000000 + i * 1000000}?w=1200&h=600&fit=crop`,
-    date: `2025-0${Math.floor(i / 10) + 1}-${(i % 30) + 1}`,
+    date: `2025-0${month}-${day.toString().padStart(2, '0')}`,
     author: ["Emma Green", "Marcus Chen", "Sarah Mitchell", "Dr. Lisa Anderson", "James Rodriguez"][i % 5],
     readTime: `${8 + (i % 5)} min read`,
     content: `

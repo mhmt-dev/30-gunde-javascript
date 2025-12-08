@@ -94,6 +94,14 @@ export default async function ArticlePage({
                     return `<h2 class="text-3xl font-bold mt-8 mb-4">${line.slice(3)}</h2>`;
                   } else if (line.startsWith("### ")) {
                     return `<h3 class="text-2xl font-bold mt-6 mb-3">${line.slice(4)}</h3>`;
+                  } else if (line.startsWith("![")) {
+                    // Parse markdown image syntax: ![alt](url)
+                    const match = line.match(/!\[(.*?)\]\((.*?)\)/);
+                    if (match) {
+                      const [, alt, url] = match;
+                      return `<img src="${url}" alt="${alt}" class="w-full h-auto rounded-lg my-6 shadow-md" loading="lazy" />`;
+                    }
+                    return "";
                   } else if (line.trim() === "") {
                     return "<br />";
                   } else {
